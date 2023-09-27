@@ -44,10 +44,11 @@ Through these experiences, I've recognized that I am a builder. I am deeply pass
 
 - Parker Dewey State of Campus Recruiting [Recording](https://www.youtube.com/watch?v=BWZ0bKVW0OE/) and [Summary](https://info.parkerdewey.com/campus-recruiting-call-what-students-want/)
 
-### External-Facing-Applications
+### Applications
 
-- **Application 1**: A brief description.
-- **Application 2**: Another description.
+- **Timestamp Conversion Bot**: [Link](https://www.test.com/)
+- **AI-Customer Support Bot**: Internal tool.
+- **AI-Blog Writer**: Internal tool.
 
 ### Email Marketing
 
