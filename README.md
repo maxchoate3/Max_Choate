@@ -2,7 +2,7 @@
 
 Growing up in a family of entrepreneurs, the entrepreneurial mindset is ingrained in me. My fascination with technology has been a constant, and over the years, I've channeled this passion into various projects and roles spanning website design, product management, and beyond. 
 
-Through these diverse experiences, I've recognized that I am a builder. I am deeply passionate about working across a spectrum of disciplines to plan, develop, and enhance customer-centric technology products and services.
+Through these experiences, I've recognized that I am a builder. I am deeply passionate about working across a spectrum of disciplines to plan, develop, and enhance customer-centric technology products and services.
 
 ---
 
@@ -25,13 +25,15 @@ Through these diverse experiences, I've recognized that I am a builder. I am dee
 
 ### Blog Posts
 
-- [Title of the Blog Post](): A short summary of the blog post.
-- [Another Blog Post](): Another summary.
+- [What is cURL](https://www.xano.com/blog/what-is-curl/): Article explaining cURL and its importance to backend development.
+- [What are Relational Databases](https://www.xano.com/blog/what-are-relational-databases/): Blog post for the general audience intended to explain the concept of relational databases.
 
 ### Webinars
 
-- **Webinar 1**: Topic and a brief description.
-- **Webinar 2**: Another topic and description.
+- Parker Dewey State of Campus Recruiting:
+-     [Recording](https://www.xano.com/blog/what-is-curl/)
+-     [Summary](https://www.xano.com/blog/what-is-curl/)
+
 
 ### External-Facing-Applications
 
