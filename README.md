@@ -33,6 +33,8 @@ Through these experiences, I've recognized that I am a builder. I am deeply pass
 - [RedAwning Host Website](https://host.redawning.com/)
 - [Soulstance Website](https://www.soulstance.com/)
 - [Kat O'Sullivan Blog](https://katosullivan.com/blog-homepage/)
+- [City Guide Pages for Culinary Backstreets](https://culinarybackstreets.com/category/cities-category/lisbon/)
+- [KangoGift Website](https://katosullivan.com/blog-homepage/](https://www.kangogift.com/)
 
 ### Blog Posts
 
