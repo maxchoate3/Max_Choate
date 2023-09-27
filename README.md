@@ -44,11 +44,11 @@ Through these experiences, I've recognized that I am a builder. I am deeply pass
 
 - Parker Dewey State of Campus Recruiting [Recording](https://www.youtube.com/watch?v=BWZ0bKVW0OE/) and [Summary](https://info.parkerdewey.com/campus-recruiting-call-what-students-want/)
 
-### Applications
+### AI Applications
 
 - [Timestamp Conversion Bot](https://www.test.com/): Tool for Xano users to convert example dates (i.e. "Wednesday 19th of October 2022 08:40:48 AM") into PHP timestamp format strings (i.e. "l jS \o\f F Y h:i:s A") so that users don't have manually compute the format string.
-- **AI-Customer Support Bot**: Internal tool.
-- **AI-Blog Writer**: Internal tool.
+- **Customer Support Bot**: Internal tool.
+- **Blog Writer**: Internal tool.
 
 ### Email Marketing
 
