@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td> <img src="URL_FOR_YOUR_IMAGE" alt="Your Image" width="200"/> </td>
+<td> <img src="Max Choate Profile.png" alt="Max Choate Profile" width="200"/> </td>
 <td>
 
 Growing up in a family of entrepreneurs, the entrepreneurial mindset is ingrained in me. My fascination with technology has been a constant, and over the years, I've channeled this passion into various projects and roles spanning website design, product management, and beyond.
