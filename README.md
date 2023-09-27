@@ -70,7 +70,7 @@ Through these experiences, I've recognized that I am a builder. I am deeply pass
 ### Programming Projects
 - Python + Java project to capture, parse, and import potential leads into HubSpot CRM.
 - Python project to detect database discrepancies.
-- Python projects for AI applications (see above)
+- Python projects for AI applications (see above).
 
 
 ---
