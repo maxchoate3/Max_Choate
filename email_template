@@ -1,0 +1,257 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">    
+    <title>Newsletter</title>
+    <!-- link to Foundation for Emails.  Removing or changing this link will break this layout.
+    Learn more about Foundation for Emails and customizing their settings here - https://foundation.zurb.com/emails/docs/ -->
+    {% include_foundation_css %}
+    <style>
+      /*----------------------------------------------------------------------------------------
+       Override some of the 'Foundation for Emails' styles
+       -----------------------------------------------------------------------------------------*/
+      
+      /*------
+       COLORS
+      --------*/
+      /*To modify colors, replace all instances of the following hexadecimal color values as desired
+        If you're familiar with Foundation, the color variables in use are listed below*/
+        
+      /*$primary-color - Primary link color - #5721CC*/
+      /*$medium-gray - Footer text color - #6F7488*/
+      /*$gray-700 - Primary text color - #4B4B60*/
+      body,
+      table.body,
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6,
+      p,
+      td,
+      th,
+      a {
+        color: #000; }
+
+      small {
+        color: #6F7488; }
+      
+      a {
+        color: #3498db; text-decoration: underline; }
+        a:hover {
+          color: #3498db; }
+        a:active {
+          color: #3498db; }
+        a:visited {
+          color: #3498db; }
+          
+      /*------------
+       FONT FAMILY
+      ------------*/
+      /*Replace all instances of "Helvetica Neue" with a font of your choice*/
+      body,
+      table.body,
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6,
+      p,
+      td,
+      th,
+      a {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+      
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+      
+      table.button table td a {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+    
+      table.body { background-color: #F7F8FA; }
+      /*------------------------
+      End Foundation Overrides
+      ------------------------*/
+      
+      /*---------------------------------------------------------------------------------
+        Layout customizations - These styles are specific to this Newsletter layout only.
+      -----------------------------------------------------------------------------------*/
+      
+      p { 
+              font-size: 16px;
+    line-height: 24px;
+    font-weight: normal;
+    margin: 0;
+    margin-bottom: 15px;
+      }
+      
+table.container {
+    background: #fff;
+    width: 620px;
+    max-width: 620px;
+    margin: 0 auto;
+    Margin: 0 auto;
+    text-align: inherit;
+}
+.wrapper-inner  {
+    padding: 20px;
+}
+
+.rounded {
+    border-radius: 10px;
+}
+      
+      .container.outer-container {
+        background-color: #F7F8FA; }
+        
+      .container {
+        border-radius: 10px; }
+      
+      h1 {
+        font-weight: 700; }
+      h2 { font-weight: bold; font-size: 22px; margin-top: 10px; margin-bottom: 10px; }
+      
+      .footer p {
+        margin-bottom: 5px;
+        Margin-bottom: 5px; }
+      
+      .footer p.copyright {
+        font-style: italic; }
+      
+      .footer a {
+        color: #6F7488;
+        text-decoration: underline; }
+        .footer a:hover {
+          cursor: pointer;
+          color: #5721CC; }
+      
+      .social-icon {
+        width: 28px; 
+        margin-left: auto;
+      margin-right: auto; }
+      
+      
+  .btn a, a.btn {
+          background-color: #ffffff;
+          border: solid 1px #0e99e1;
+          border-radius: 5px;
+          box-sizing: border-box;
+          color: #0e99e1;
+          cursor: pointer;
+          display: inline-block;
+          font-size: 16px;
+          font-weight: bold;
+          margin: 0;
+          padding: 8px 16px;
+          text-decoration: none;
+          text-transform: capitalize; 
+      }
+
+      a.btn, .btn-primary table td {
+        background-color: #3498db; 
+      }
+
+      a.btn, .btn-primary a {
+        background-color: #3498db;
+        border-color: #3498db;
+        color: #ffffff; 
+      }
+      
+    </style>
+    <!-- <style> -->
+  </head>
+  <body>
+    <span class="preheader"></span>
+    <table class="body">
+      <tr>
+        <td class="center" align="center" valign="top">
+          <center data-parsed="">
+            <table align="center" class="container outer-container float-center"><tbody><tr><td>
+              <table class="spacer"><tbody><tr><td height="32px" style="font-size:32px;line-height:32px;">&#xA0;</td></tr></tbody></table> 
+            
+              <table class="row"><tbody><tr>
+                <th class="small-12 large-12 columns first last"><table><tr><th>
+                  <center data-parsed="">
+                    <!-- To add your logo image, modify the src here. -->
+                    <a href="http://www.xano.com">
+                        <img src="https://cdn.xano.com/home2/assets/img/global/xano.png" style='width: 150px; max-width: 150px' align="center" width=150 class="float-center">
+                    </a>
+                  </center>
+                </th>
+<th class="expander"></th></tr></table></th>
+              </tr></tbody></table>
+            
+              <table class="spacer"><tbody><tr><td height="8px" style="font-size:8px;line-height:8px;">&#xA0;</td></tr></tbody></table> 
+            
+              <table align="center" class="container"><tbody><tr><td>
+            
+                <table class="spacer"><tbody><tr><td height="24px" style="font-size:24px;line-height:24px;">&#xA0;</td></tr></tbody></table> 
+                
+            
+                <table class="row"><tbody><tr>
+                  <th class="small-12 large-12 columns first last"><table><tr><th>
+                    <table class="wrapper" align="center"><tr><td class="wrapper-inner">
+                      <!-- We'll replace this content tag with whatever you write in your email -->
+                      {{content}}
+                    </td></tr></table>
+                  </th>
+<th class="expander"></th></tr></table></th>
+                </tr></tbody></table>
+            
+              </td></tr></tbody></table>
+            
+              <table class="row footer"><tbody><tr>
+                <th class="small-12 large-12 columns first last"><table><tr><th>
+            
+                  <table class="spacer"><tbody><tr><td height="22px" style="font-size:22px;line-height:22px;">&#xA0;</td></tr></tbody></table> 
+            
+                  <center data-parsed="">
+                    <table align="center" class="menu float-center"><tr><td><table><tr>
+                      <!-- change all social icons by modifying the src and make sure to add link destinations by replacing href="#"-->
+                      <th class="menu-item float-center"><a href="https://twitter.com/nocodebackend"><img src="https://cdn.xano.com/assets/twitter-icon.png" alt="Twitter" class="social-icon" width="32"></a></th>    
+                      <th class="menu-item float-center"><a href="https://www.youtube.com/channel/UCWtf65mzXLr6FOLmf5zAI_w"><img src="https://cdn.xano.com/assets/youtube-icon.png" alt="Youtuve" class="social-icon" width="32"></a></th>    
+                    </tr></table></td></tr></table>      </center>
+            
+                  <table class="spacer"><tbody><tr><td height="12px" style="font-size:12px;line-height:12px;">&#xA0;</td></tr></tbody></table> 
+            
+                  <!-- Your copyright -->
+                  <p class="text-center"><small>&copy;{{ "now" | date:"%Y" }} Xano Inc. 20700 Ventura Blvd. Ste 210, Woodland Hills, CA 91364</small></p>
+               
+                  <center data-parsed="">
+                    <!--
+                      You can use the Customer.io unsubscribe link in all of your emails.
+                      We are able to track the unsubscribe to the specific email they
+                      unsubscribed from. You also have the option to include an unsubscribe
+                      link in your email header. You always have the option of whether to send 
+                      to unsubscribed users or not, but use that ability with caution. To learn more,
+                      or if you want to handle unsubscribes yourself, please refer to the docs:
+                      https://learn.customer.io/documentation/unsubscribes.html
+                    -->
+                    <!--to change the color of this link, find the COLORS section in the CSS overrides above! -->
+                    <a class="text-center untracked float-center" href="{% unsubscribe_url %}" align="center"><small>Don't like these emails? Unsubscribe.</small></a>
+                  </center>
+            
+
+                </th>
+<th class="expander"></th></tr></table></th>
+              </tr></tbody></table>
+            </td></tr></tbody></table>
+            
+          </center>
+        </td>
+      </tr>
+    </table>
+    <!-- prevent Gmail on iOS font size manipulation -->
+   <div style="display:none; white-space:nowrap; font:15px courier; line-height:0;"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </div>
+  </body>
+</html>
