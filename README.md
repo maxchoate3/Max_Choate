@@ -38,10 +38,12 @@ Through these experiences, I've recognized that I am a builder. I am deeply pass
 - **Application 1**: A brief description.
 - **Application 2**: Another description.
 
-### Email Marketing Campaigns
+### Email Marketing
 
-- **Campaign 1**: A short summary.
-- **Campaign 2**: Another summary.
+- **Email Template GitHub Repository**: A short summary.
+- **Example**: 
+  ![Description or Alt text for the image](URL_FOR_SCREENSHOT_IMAGE)
+
 
 ### Leadership Roles
 
