@@ -48,7 +48,7 @@ Through these experiences, I've recognized that I am a builder. I am deeply pass
 
 ### AI Applications
 
-- [Timestamp Conversion Bot](https://www.test.com/): Tool for Xano users to convert example dates (i.e. "Wednesday 19th of October 10022 08:40:48 AM") into PHP timestamp format strings (i.e. "l jS \o\f F Y h:i:s A") so that users don't have manually compute the format string.
+- [Timestamp Conversion Bot](https://32c61b0a-e438-4f36-a36f-525a75824a2a-staging.weweb-preview.io/php_timestamp/): Tool for Xano users to convert example dates (i.e. "Wednesday 19th of October 10022 08:40:48 AM") into PHP timestamp format strings (i.e. "l jS \o\f F Y h:i:s A") so that users don't have manually compute the format string.
 - **Customer Support Bot**: Internal tool using LangChain and Pinecone to process and resolve technical questions about Xano using existing resources.
 - **Blog Writer**: Internal tool to create an AI-assisted blog writing process.
 
