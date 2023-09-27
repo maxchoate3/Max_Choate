@@ -20,8 +20,8 @@ Through these diverse experiences, I've recognized that I am a builder. I am dee
 
 ### Website Design Projects
 
-- ![RedAwning Host Website](https://host.redawning.com/)
-- ![Soulstance Website](https://www.soulstance.com/)
+- [RedAwning Host Website](https://host.redawning.com/)
+- [Soulstance Website](https://www.soulstance.com/)
 
 ### Blog Posts
 
