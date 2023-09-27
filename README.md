@@ -80,19 +80,17 @@ Through these experiences, I've recognized that I am a builder. I am deeply pass
 ## 🛠 Technical Skills
 
 ### Programming
-<span style="background-color: #f2f2f2; padding: 5px; margin-right: 5px;">Python</span>
-<span style="background-color: #f2f2f2; padding: 5px; margin-right: 5px;">Java</span>
-<span style="background-color: #f2f2f2; padding: 5px; margin-right: 5px;">HTML</span>
-<span style="background-color: #f2f2f2; padding: 5px; margin-right: 5px;">CSS</span>
-<span style="background-color: #f2f2f2; padding: 5px; margin-right: 5px;">C</span>
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 
 ### Marketing & Sales Tools
-<span style="background-color: #f2f2f2; padding: 5px; margin-right: 5px;">HubSpot</span>
-<span style="background-color: #f2f2f2; padding: 5px; margin-right: 5px;">Intercom</span>
-<span style="background-color: #f2f2f2; padding: 5px; margin-right: 5px;">Customer.io</span>
-<span style="background-color: #f2f2f2; padding: 5px; margin-right: 5px;">TopLyne</span>
+![HubSpot](https://img.shields.io/badge/-HubSpot-black?style=flat-square&logo=hubspot)
+![Intercom](https://img.shields.io/badge/-Intercom-black?style=flat-square&logo=intercom)
 
 <!-- ... continue in the same format for the other categories -->
+
 
 
 
