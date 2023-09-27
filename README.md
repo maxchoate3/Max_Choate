@@ -1,8 +1,18 @@
 # Hello there! 👋 I'm Max Choate
 
-Growing up in a family of entrepreneurs, the entrepreneurial mindset is ingrained in me. My fascination with technology has been a constant, and over the years, I've channeled this passion into various projects and roles spanning website design, product management, and beyond. 
+<table>
+<tr>
+<td> <img src="URL_FOR_YOUR_IMAGE" alt="Your Image" width="200"/> </td>
+<td>
+
+Growing up in a family of entrepreneurs, the entrepreneurial mindset is ingrained in me. My fascination with technology has been a constant, and over the years, I've channeled this passion into various projects and roles spanning website design, product management, and beyond.
 
 Through these experiences, I've recognized that I am a builder. I am deeply passionate about working across disciplines to plan, develop, and enhance customer-centric technology products and services.
+
+</td>
+</tr>
+</table>
+
 
 ---
 
@@ -31,7 +41,6 @@ Through these experiences, I've recognized that I am a builder. I am deeply pass
 ### Webinars
 
 - Parker Dewey State of Campus Recruiting [Recording](https://www.youtube.com/watch?v=BWZ0bKVW0OE/) and [Summary](https://info.parkerdewey.com/campus-recruiting-call-what-students-want/)
-
 
 ### External-Facing-Applications
 
