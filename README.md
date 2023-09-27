@@ -32,6 +32,7 @@ Through these experiences, I've recognized that I am a builder. I am deeply pass
 
 - [RedAwning Host Website](https://host.redawning.com/)
 - [Soulstance Website](https://www.soulstance.com/)
+- [Kat O'Sullivan Blog](https://katosullivan.com/blog-homepage/)
 
 ### Blog Posts
 
