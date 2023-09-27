@@ -119,10 +119,7 @@ Through these experiences, I've recognized that I am a builder. I am deeply pass
 
 <img src="https://cdn.freebiesupply.com/logos/large/2x/alteryx-logo-png-transparent.png" alt="Alteryx" height="40" style="margin-right:10px;"/>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/mixpanel-logo-png-transparent.png" alt="Mixpanel" height="40" style="margin-right:10px;"/>
-<img src="https://cdn.freebiesupply.com/logos/large/2x/june-logo-png-transparent.png" alt="June" height="40" style="margin-right:10px;"/>
-<img src="https://cdn.freebiesupply.com/logos/large/2x/fullstory-logo-png-transparent.png" alt="FullStory" height="40" style="margin-right:10px;"/>
-<img src="https://cdn.freebiesupply.com/logos/large/2x/segment-logo-png-transparent.png" alt="Segment" height="40" style="margin-right:10px;"/>
-<img src="https://toplyne.com/wp-content/uploads/2021/03/toplyne-logo.png" alt="Toplyne Analytics" height="40" style="margin-right:10px;"/>
+<img src="https://cdn.freebiesupply.com/logos/large/2x/june-logo-png-transparent.png" alt="June" height="40" style="
 
 
 
