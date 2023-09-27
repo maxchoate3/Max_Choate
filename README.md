@@ -6,19 +6,20 @@ I'm a passionate tech enthusiast with a flair for design, programming, and marke
 
 ## 🌱 What I'm Currently Working On
 
-- **Project 1**: A brief description of the project.
-- **Project 2**: Another description for a different project.
+- **Project 1**: Continuously improving Xano's onboarding experience.
+- **Project 2**: Creating a Xano customer profile and journey dashboard in Figma.
+- **Project 3**: Conducting competitive analysis to identify opportunities for Xano.
 
 > I'm always on the lookout for new challenges and collaborations. Feel free to reach out!
 
 ---
 
-## 🔍 What I Have Experience With
+## 🔍 Some Past Projects
 
 ### Website Design Projects
 
-- **Website 1**: A brief description and perhaps a link.
-- **Website 2**: Another description and link.
+- ![RedAwning Host Website](#https://host.redawning.com/)
+- ![Soulstance Website](#https://www.soulstance.com/)
 
 ### Blog Posts
 
