@@ -84,13 +84,45 @@ Through these experiences, I've recognized that I am a builder. I am deeply pass
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 
 ### Marketing & Sales Tools
 ![HubSpot](https://img.shields.io/badge/-HubSpot-black?style=flat-square&logo=hubspot)
 ![Intercom](https://img.shields.io/badge/-Intercom-black?style=flat-square&logo=intercom)
+![Customer.io](https://img.shields.io/badge/-Customer.io-black?style=flat-square&logo=customer.io)
+![TopLyne](https://img.shields.io/badge/-TopLyne-black?style=flat-square)
 
-<!-- ... continue in the same format for the other categories -->
+### AI Tools
+![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square)
+![Pinecone](https://img.shields.io/badge/-Pinecone-black?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-black?style=flat-square)
 
+### Web Tools
+![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress)
+![HubSpot Web](https://img.shields.io/badge/-HubSpot-black?style=flat-square&logo=hubspot)
+![SEO](https://img.shields.io/badge/-SEO-black?style=flat-square)
+![Content Management Systems](https://img.shields.io/badge/-CMS-black?style=flat-square)
+![Code Libraries](https://img.shields.io/badge/-Code_Libraries-black?style=flat-square)
+![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript)
+
+### Design Tools
+![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=adobe-photoshop)
+![Illustrator](https://img.shields.io/badge/-Illustrator-black?style=flat-square&logo=adobe-illustrator)
+![InDesign](https://img.shields.io/badge/-InDesign-black?style=flat-square&logo=adobe-indesign)
+![Canva](https://img.shields.io/badge/-Canva-black?style=flat-square&logo=canva)
+![Miro](https://img.shields.io/badge/-Miro-black?style=flat-square&logo=miro)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Flourish](https://img.shields.io/badge/-Flourish-black?style=flat-square)
+![WeWeb](https://img.shields.io/badge/-WeWeb-black?style=flat-square)
+![WebFlow](https://img.shields.io/badge/-WebFlow-black?style=flat-square&logo=webflow)
+
+### Product Analytics
+![Alteryx](https://img.shields.io/badge/-Alteryx-black?style=flat-square&logo=alteryx)
+![Mixpanel](https://img.shields.io/badge/-Mixpanel-black?style=flat-square&logo=mixpanel)
+![June](https://img.shields.io/badge/-June-black?style=flat-square)
+![FullStory](https://img.shields.io/badge/-FullStory-black?style=flat-square&logo=fullstory)
+![Segment](https://img.shields.io/badge/-Segment-black?style=flat-square&logo=segment)
+![Toplyne Analytics](https://img.shields.io/badge/-Toplyne-black?style=flat-square)
 
 
 
