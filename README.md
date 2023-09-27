@@ -18,9 +18,9 @@ Through these experiences, I've recognized that I am a builder. I am deeply pass
 
 ## 🌱 What I'm Currently Working On
 
-- **Project 1**: Continuously improving Xano's onboarding experience.
-- **Project 2**: Creating a Xano customer profile and journey dashboard in Figma.
-- **Project 3**: Conducting competitive analysis to identify opportunities for Xano.
+- **Onboarding**: Continuously improving Xano's onboarding experience.
+- **Customer Profile & Journey**: Creating a Xano customer profile and journey dashboard in Figma.
+- **Competitive Analysis**: Conducting competitive analysis to identify opportunities for Xano.
 
 > I'm always on the lookout for new challenges and collaborations. Feel free to reach out!
 
@@ -38,6 +38,7 @@ Through these experiences, I've recognized that I am a builder. I am deeply pass
 
 - [What is cURL](https://www.xano.com/blog/what-is-curl/): Article explaining cURL and its importance to backend development.
 - [What are Relational Databases](https://www.xano.com/blog/what-are-relational-databases/): Blog post for the general audience intended to explain the concept of relational databases.
+- More to come from Xano and HubSpot Developer Blog...
 
 ### Webinars
 
