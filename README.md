@@ -30,9 +30,9 @@ Through these experiences, I've recognized that I am a builder. I am deeply pass
 
 ### Webinars
 
-- Parker Dewey State of Campus Recruiting:
--     [Recording](https://www.youtube.com/watch?v=BWZ0bKVW0OE))
--     [Summary](https://info.parkerdewey.com/campus-recruiting-call-what-students-want)
+Parker Dewey State of Campus Recruiting:
+- [Recording](https://www.youtube.com/watch?v=BWZ0bKVW0OE)
+- [Summary](https://info.parkerdewey.com/campus-recruiting-call-what-students-want)
 
 
 ### External-Facing-Applications
