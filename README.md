@@ -55,7 +55,7 @@ Through these experiences, I've recognized that I am a builder. I am deeply pass
 ### Email Marketing
 
 - [Email Template Github]([https://www.xano.com/blog/what-is-curl/](https://github.com/maxchoate3/Max_Choate/blob/f385de087783b2562a01b1dcd088d6285f06c12f/email_template)): Email template created for Xano's marketing. 
-<td> <img src="email_template" alt="Email Template" width="100"/> </td>
+<td> <img src="Xano Email Template Example.png" alt="Email Template" width="100"/> </td>
 
 
 ### Leadership Roles
