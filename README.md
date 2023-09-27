@@ -46,7 +46,7 @@ Through these experiences, I've recognized that I am a builder. I am deeply pass
 
 ### Applications
 
-- [Timestamp Conversion Bot](https://www.test.com/)
+- [Timestamp Conversion Bot](https://www.test.com/): Tool for Xano users to convert example dates (i.e. "November 29, 2021. 11:59 PM PST") into PHP timestamp format strings (i.e.
 - **AI-Customer Support Bot**: Internal tool.
 - **AI-Blog Writer**: Internal tool.
 
