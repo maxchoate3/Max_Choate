@@ -66,6 +66,8 @@ Through these experiences, I've recognized that I am a builder. I am deeply pass
 
 ## 🛠 Technical Skills
 
+## 🛠 Technical Skills
+
 ### Programming
 
 <div align="center">
@@ -73,7 +75,8 @@ Through these experiences, I've recognized that I am a builder. I am deeply pass
     <img src="URL_FOR_JAVA_LOGO" alt="Java" width="40" height="40" style="margin-right:10px;"/>
     <img src="URL_FOR_HTML_LOGO" alt="HTML" width="40" height="40" style="margin-right:10px;"/>
     <img src="URL_FOR_CSS_LOGO" alt="CSS" width="40" height="40" style="margin-right:10px;"/>
-    <!-- More logos for other Programming tools -->
+    <img src="URL_FOR_C_LOGO" alt="C" width="40" height="40" style="margin-right:10px;"/>
+    <!-- Add logos for data structures, OOP, assembly code, machine code, RISC-V similarly -->
 </div>
 
 ### Marketing & Sales Tools
@@ -81,7 +84,8 @@ Through these experiences, I've recognized that I am a builder. I am deeply pass
 <div align="center">
     <img src="URL_FOR_HUBSPOT_LOGO" alt="HubSpot" width="40" height="40" style="margin-right:10px;"/>
     <img src="URL_FOR_INTERCOM_LOGO" alt="Intercom" width="40" height="40" style="margin-right:10px;"/>
-    <!-- More logos for other Marketing & Sales tools -->
+    <img src="URL_FOR_CUSTOMER.IO_LOGO" alt="Customer.io" width="40" height="40" style="margin-right:10px;"/>
+    <img src="URL_FOR_TOPLYNE_LOGO" alt="TopLyne" width="40" height="40" style="margin-right:10px;"/>
 </div>
 
 ### AI Tools
@@ -89,14 +93,18 @@ Through these experiences, I've recognized that I am a builder. I am deeply pass
 <div align="center">
     <img src="URL_FOR_LANGCHAIN_LOGO" alt="LangChain" width="40" height="40" style="margin-right:10px;"/>
     <img src="URL_FOR_PINECONE_LOGO" alt="Pinecone" width="40" height="40" style="margin-right:10px;"/>
-    <!-- More logos for other AI tools -->
+    <img src="URL_FOR_PROMPT_ENGINEERING_LOGO" alt="Prompt Engineering" width="40" height="40" style="margin-right:10px;"/>
 </div>
 
 ### Web Tools
 
 <div align="center">
     <img src="URL_FOR_WORDPRESS_LOGO" alt="WordPress" width="40" height="40" style="margin-right:10px;"/>
-    <!-- More logos for other Web tools -->
+    <img src="URL_FOR_HUBSPOT_WEB_LOGO" alt="HubSpot" width="40" height="40" style="margin-right:10px;"/>
+    <img src="URL_FOR_SEO_LOGO" alt="SEO" width="40" height="40" style="margin-right:10px;"/>
+    <img src="URL_FOR_CMS_LOGO" alt="Content Management Systems" width="40" height="40" style="margin-right:10px;"/>
+    <img src="URL_FOR_CODE_LIBRARIES_LOGO" alt="Code Libraries" width="40" height="40" style="margin-right:10px;"/>
+    <img src="URL_FOR_JAVASCRIPT_LOGO" alt="Javascript" width="40" height="40" style="margin-right:10px;"/>
 </div>
 
 ### Design Tools
@@ -104,7 +112,13 @@ Through these experiences, I've recognized that I am a builder. I am deeply pass
 <div align="center">
     <img src="URL_FOR_PHOTOSHOP_LOGO" alt="Photoshop" width="40" height="40" style="margin-right:10px;"/>
     <img src="URL_FOR_ILLUSTRATOR_LOGO" alt="Illustrator" width="40" height="40" style="margin-right:10px;"/>
-    <!-- More logos for other Design tools -->
+    <img src="URL_FOR_INDESIGN_LOGO" alt="InDesign" width="40" height="40" style="margin-right:10px;"/>
+    <img src="URL_FOR_CANVA_LOGO" alt="Canva" width="40" height="40" style="margin-right:10px;"/>
+    <img src="URL_FOR_MIRO_LOGO" alt="Miro" width="40" height="40" style="margin-right:10px;"/>
+    <img src="URL_FOR_FIGMA_LOGO" alt="Figma" width="40" height="40" style="margin-right:10px;"/>
+    <img src="URL_FOR_FLOURISH_LOGO" alt="Flourish" width="40" height="40" style="margin-right:10px;"/>
+    <img src="URL_FOR_WEWEB_LOGO" alt="WeWeb" width="40" height="40" style="margin-right:10px;"/>
+    <img src="URL_FOR_WEBFLOW_LOGO" alt="WebFlow" width="40" height="40" style="margin-right:10px;"/>
 </div>
 
 ### Product Analytics
@@ -112,8 +126,12 @@ Through these experiences, I've recognized that I am a builder. I am deeply pass
 <div align="center">
     <img src="URL_FOR_ALTERYX_LOGO" alt="Alteryx" width="40" height="40" style="margin-right:10px;"/>
     <img src="URL_FOR_MIXPANEL_LOGO" alt="Mixpanel" width="40" height="40" style="margin-right:10px;"/>
-    <!-- More logos for other Product Analytics tools -->
+    <img src="URL_FOR_JUNE_LOGO" alt="June" width="40" height="40" style="margin-right:10px;"/>
+    <img src="URL_FOR_FULLSTORY_LOGO" alt="FullStory" width="40" height="40" style="margin-right:10px;"/>
+    <img src="URL_FOR_SEGMENT_LOGO" alt="Segment" width="40" height="40" style="margin-right:10px;"/>
+    <img src="URL_FOR_TOPLYNE_ANALYTICS_LOGO" alt="Toplyne" width="40" height="40" style="margin-right:10px;"/>
 </div>
+
 
 
 
