@@ -46,7 +46,7 @@ Through these experiences, I've recognized that I am a builder. I am deeply pass
 
 ### Applications
 
-- **Timestamp Conversion Bot**: [Link](https://www.test.com/)
+- [Timestamp Conversion Bot](https://www.test.com/)
 - **AI-Customer Support Bot**: Internal tool.
 - **AI-Blog Writer**: Internal tool.
 
