@@ -1,6 +1,6 @@
 # Hello there! 👋 I'm Max Choate
 
-I'm a passionate tech enthusiast with a flair for design, programming, and marketing. With a multifaceted background in various domains, I bring a unique blend of skills to every project I undertake.
+I'm a passionate tech enthusiast 
 
 ---
 
@@ -52,61 +52,53 @@ I'm a passionate tech enthusiast with a flair for design, programming, and marke
 
 ### Programming
 
-- ![Python](#) Python (✅ Passed Linkedin Skills Assessment)
-- ![Java](#) Java
-- ![HTML](#) HTML
-- ![CSS](#) CSS
-- ![C](#) C
-- Data Structures
-- Object-Oriented Programming
-- Assembly Code
-- Machine Code
-- ![RISC-V](#) RISC-V
+<div align="center">
+    <img src="URL_FOR_PYTHON_LOGO" alt="Python" width="40" height="40" style="margin-right:10px;"/> 
+    <img src="URL_FOR_JAVA_LOGO" alt="Java" width="40" height="40" style="margin-right:10px;"/>
+    <img src="URL_FOR_HTML_LOGO" alt="HTML" width="40" height="40" style="margin-right:10px;"/>
+    <img src="URL_FOR_CSS_LOGO" alt="CSS" width="40" height="40" style="margin-right:10px;"/>
+    <!-- More logos for other Programming tools -->
+</div>
 
 ### Marketing & Sales Tools
 
-- ![HubSpot](#) HubSpot
-- ![Intercom](#) Intercom
-- ![Customer.io](#) Customer.io
-- ![TopLyne](#) TopLyne
+<div align="center">
+    <img src="URL_FOR_HUBSPOT_LOGO" alt="HubSpot" width="40" height="40" style="margin-right:10px;"/>
+    <img src="URL_FOR_INTERCOM_LOGO" alt="Intercom" width="40" height="40" style="margin-right:10px;"/>
+    <!-- More logos for other Marketing & Sales tools -->
+</div>
 
 ### AI Tools
 
-- ![LangChain](#) LangChain
-- ![Pinecone](#) Pinecone
-- ![Prompt Engineering](#) Prompt Engineering
+<div align="center">
+    <img src="URL_FOR_LANGCHAIN_LOGO" alt="LangChain" width="40" height="40" style="margin-right:10px;"/>
+    <img src="URL_FOR_PINECONE_LOGO" alt="Pinecone" width="40" height="40" style="margin-right:10px;"/>
+    <!-- More logos for other AI tools -->
+</div>
 
 ### Web Tools
 
-- ![WordPress](#) WordPress
-- ![HubSpot](#) HubSpot for Web Design
-- SEO
-- Content Management Systems
-- Code Libraries
-- ![HTML](#) HTML
-- ![CSS](#) CSS
-- ![Javascript](#) Javascript
+<div align="center">
+    <img src="URL_FOR_WORDPRESS_LOGO" alt="WordPress" width="40" height="40" style="margin-right:10px;"/>
+    <!-- More logos for other Web tools -->
+</div>
 
 ### Design Tools
 
-- ![Photoshop](#) Photoshop
-- ![Illustrator](#) Illustrator
-- ![InDesign](#) InDesign
-- ![Canva](#) Canva
-- ![Miro](#) Miro
-- ![Figma](#) Figma
-- ![Flourish](#) Flourish
-- ![WeWeb](#) WeWeb
-- ![WebFlow](#) WebFlow
+<div align="center">
+    <img src="URL_FOR_PHOTOSHOP_LOGO" alt="Photoshop" width="40" height="40" style="margin-right:10px;"/>
+    <img src="URL_FOR_ILLUSTRATOR_LOGO" alt="Illustrator" width="40" height="40" style="margin-right:10px;"/>
+    <!-- More logos for other Design tools -->
+</div>
 
 ### Product Analytics
 
-- ![Alteryx](#) Alteryx
-- ![Mixpanel](#) Mixpanel
-- ![June](#) June
-- ![FullStory](#) FullStory
-- ![Segment](#) Segment
-- ![Toplyne](#) Toplyne
+<div align="center">
+    <img src="URL_FOR_ALTERYX_LOGO" alt="Alteryx" width="40" height="40" style="margin-right:10px;"/>
+    <img src="URL_FOR_MIXPANEL_LOGO" alt="Mixpanel" width="40" height="40" style="margin-right:10px;"/>
+    <!-- More logos for other Product Analytics tools -->
+</div>
+
 
 
 ## 🎓 Current Education
