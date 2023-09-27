@@ -73,8 +73,6 @@ Through these experiences, I've recognized that I am a builder. I am deeply pass
 - Python projects for AI applications (see above)
 
 
-
-
 ---
 
 ## 🛠 Technical Skills
@@ -124,8 +122,7 @@ Through these experiences, I've recognized that I am a builder. I am deeply pass
 ![Segment](https://img.shields.io/badge/-Segment-black?style=flat-square&logo=segment)
 ![Toplyne Analytics](https://img.shields.io/badge/-Toplyne-black?style=flat-square)
 
-
-
+---
 
 ## 🎓 Current Education
 
@@ -137,5 +134,5 @@ Through these experiences, I've recognized that I am a builder. I am deeply pass
 
 ---
 
-🔗 **Let's connect!** Find me on [LinkedIn](#), [Twitter](#), or drop me an [email](mailto:youremail@example.com).
+🔗 **Let's connect!** Find me on [LinkedIn](https://www.linkedin.com/in/max-choate/) or drop me an [email](mailto:maxchoate@gmail.com).
 
