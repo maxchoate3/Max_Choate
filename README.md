@@ -13,6 +13,7 @@ Through these experiences, I've recognized that I am a builder. I am deeply pass
 </tr>
 </table>
 
+🔗 **Let's connect!** Find me on [LinkedIn](https://www.linkedin.com/in/max-choate/) or drop me an [email](mailto:maxchoate@gmail.com).
 
 ---
 
@@ -54,7 +55,7 @@ Through these experiences, I've recognized that I am a builder. I am deeply pass
 
 ### Email Marketing
 
-- [Email Template Github]([https://www.xano.com/blog/what-is-curl/](https://github.com/maxchoate3/Max_Choate/blob/f385de087783b2562a01b1dcd088d6285f06c12f/email_template)): Email template created for Xano's marketing. 
+- [Email Template Github]([https://www.xano.com/blog/what-is-curl/](https://github.com/maxchoate3/Max_Choate/blob/f385de087783b2562a01b1dcd088d6285f06c12f/email_template)): Email template created for Xano's marketing. Example:
 <td> <img src="Xano Email Template Example.png" alt="Email Template" width="100"/> </td>
 
 
@@ -132,6 +133,3 @@ Through these experiences, I've recognized that I am a builder. I am deeply pass
 - **Minor**: Computer Science
 
 ---
-
-🔗 **Let's connect!** Find me on [LinkedIn](https://www.linkedin.com/in/max-choate/) or drop me an [email](mailto:maxchoate@gmail.com).
-
