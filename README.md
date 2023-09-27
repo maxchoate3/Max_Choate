@@ -1,6 +1,6 @@
-# Hello there! 👋 I'm [Your Name]
+# Hello there! 👋 I'm Max Choate
 
-Welcome to my GitHub! I'm a passionate tech enthusiast with a flair for design, programming, and marketing. With a multifaceted background in various domains, I bring a unique blend of skills to every project I undertake.
+I'm a passionate tech enthusiast with a flair for design, programming, and marketing. With a multifaceted background in various domains, I bring a unique blend of skills to every project I undertake.
 
 ---
 
@@ -106,6 +106,15 @@ Welcome to my GitHub! I'm a passionate tech enthusiast with a flair for design, 
 - ![FullStory](#) FullStory
 - ![Segment](#) Segment
 - ![Toplyne](#) Toplyne
+
+
+## 🎓 Current Education
+
+**College/University**: California Polytechnic State University, San Luis Obispo
+
+- **Major**: Business Administration
+- **Concentration**: Entrepreneurship
+- **Minor**: Computer Science
 
 ---
 
