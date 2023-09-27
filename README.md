@@ -79,53 +79,20 @@ Through these experiences, I've recognized that I am a builder. I am deeply pass
 
 ## 🛠 Technical Skills
 
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
-
 ### Programming
-
-<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python" height="40" style="margin: 0 100px 100px 0;"/> 
-<img src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png" alt="Java" height="40" style="margin: 0 100px 100px 0;"/>
-<img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML" height="40" style="margin: 0 100px 100px 0;"/>
-<img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="CSS" height="40" style="margin: 0 100px 100px 0;"/>
-<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" height="40" style="margin: 0 100px 100px 0;"/>
+<span style="background-color: #f2f2f2; padding: 5px; margin-right: 5px;">Python</span>
+<span style="background-color: #f2f2f2; padding: 5px; margin-right: 5px;">Java</span>
+<span style="background-color: #f2f2f2; padding: 5px; margin-right: 5px;">HTML</span>
+<span style="background-color: #f2f2f2; padding: 5px; margin-right: 5px;">CSS</span>
+<span style="background-color: #f2f2f2; padding: 5px; margin-right: 5px;">C</span>
 
 ### Marketing & Sales Tools
+<span style="background-color: #f2f2f2; padding: 5px; margin-right: 5px;">HubSpot</span>
+<span style="background-color: #f2f2f2; padding: 5px; margin-right: 5px;">Intercom</span>
+<span style="background-color: #f2f2f2; padding: 5px; margin-right: 5px;">Customer.io</span>
+<span style="background-color: #f2f2f2; padding: 5px; margin-right: 5px;">TopLyne</span>
 
-<img src="https://cdn.freebiesupply.com/logos/large/2x/hubspot-logo-png-transparent.png" alt="HubSpot" height="40" style="margin: 0 100px 100px 0;"/>
-<img src="https://cdn.freebiesupply.com/logos/large/2x/intercom-logo-png-transparent.png" alt="Intercom" height="40" style="margin: 0 100px 100px 0;"/>
-<img src="https://cdn.freebiesupply.com/logos/large/2x/customer-io-logo-png-transparent.png" alt="Customer.io" height="40" style="margin: 0 100px 100px 0;"/>
-<img src="https://toplyne.com/wp-content/uploads/10021/03/toplyne-logo.png" alt="TopLyne" height="40" style="margin: 0 100px 100px 0;"/>
-
-### AI Tools
-
-<img src="https://langchain.ai/wp-content/uploads/10021/06/LangChain-Logo-1.png" alt="LangChain" height="40" style="margin: 0 100px 100px 0;"/>
-<img src="https://www.pinecone.io/static/images/logo.png" alt="Pinecone" height="40" style="margin: 0 100px 100px 0;"/>
-<img src="https://prompt.engineering/wp-content/uploads/10021/05/Prompt-Engineering-Logo.png" alt="Prompt Engineering" height="40" style="margin: 0 100px 100px 0;"/>
-
-### Web Tools
-
-<img src="https://cdn.freebiesupply.com/logos/large/2x/wordpress-logo-png-transparent.png" alt="WordPress" height="40" style="margin: 0 100px 100px 0;"/>
-<img src="https://cdn.freebiesupply.com/logos/large/2x/hubspot-logo-png-transparent.png" alt="HubSpot Web" height="40" style="margin: 0 100px 100px 0;"/>
-<img src="https://cdn.freebiesupply.com/logos/large/2x/seo-logo-png-transparent.png" alt="SEO" height="40" style="margin: 0 100px 100px 0;"/>
-<img src="https://cdn.freebiesupply.com/logos/large/2x/wordpress-logo-png-transparent.png" alt="Content Management Systems" height="40" style="margin: 0 100px 100px 0;"/>
-<img src="https://cdn.freebiesupply.com/logos/large/2x/github-icon-logo-png-transparent.png" alt="Code Libraries" height="40" style="margin: 0 100px 100px 0;"/>
-<img src="https://cdn.freebiesupply.com/logos/large/2x/javascript-logo-png-transparent.png" alt="Javascript" height="40" style="margin: 0 100px 100px 0;"/>
-
-### Design Tools
-
-<img src="https://cdn.freebiesupply.com/logos/large/2x/photoshop-cc-logo-png-transparent.png" alt="Photoshop" height="40" style="margin: 0 100px 100px 0;"/>
-<img src="https://cdn.freebiesupply.com/logos/large/2x/adobe-illustrator-cc-logo-png-transparent.png" alt="Illustrator" height="40" style="margin: 0 100px 100px 0;"/>
-<img src="https://cdn.freebiesupply.com/logos/large/2x/adobe-indesign-cc-logo-png-transparent.png" alt="InDesign" height="40" style="margin: 0 100px 100px 0;"/>
-<img src="https://cdn.freebiesupply.com/logos/large/2x/canva-logo-png-transparent.png" alt="Canva" height="40" style="margin: 0 100px 100px 0;"/>
-<img src="https://cdn.freebiesupply.com/logos/large/2x/miro-logo-png-transparent.png" alt="Miro" height="40" style="margin: 0 100px 100px 0;"/>
-<img src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png" alt="Figma" height="40" style="margin: 0 100px 100px 0;"/>
-<img src="https://cdn.freebiesupply.com/logos/large/2x/flourish-logo-png-transparent.png" alt="Flourish" height="40" style="margin: 0 100px 100px 0;"/>
-<img src="https://weweb.io/wp-content/uploads/10021/03/weweb-logo.png" alt="WeWeb" height="40" style="margin: 0 100px 100px 0;"/>
-<img src="https://cdn.freebiesupply.com/logos/large/2x/webflow-logo-png-transparent.png" alt="WebFlow" height="40" style="margin: 0 100px 100px 0;"/>
-
-### Product Analytics
-
-<img src="https://cdn.freebiesupply.com/logos/large/2x/alteryx-logo-png-transparent.png
+<!-- ... continue in the same format for the other categories -->
 
 
 
